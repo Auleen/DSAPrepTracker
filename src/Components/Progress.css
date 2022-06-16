@@ -1,0 +1,8 @@
+.barContainer{
+    border-radius: 12px;
+    display: block;
+    /* justify-content: space-around; */
+    /* max-width: max-content; */
+    border: 1px black inset;
+    padding: 2rem;
+}

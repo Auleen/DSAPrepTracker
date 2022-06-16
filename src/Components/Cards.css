@@ -1,0 +1,9 @@
+.mycard{
+    display: block;
+    border: 1px black inset;
+    color: rgb(3, 3, 3);
+    border-radius: 1rem;
+    margin: 2rem;;
+    padding: 2rem;
+    box-shadow: 5px 10px rgb(226, 215, 215);
+}
